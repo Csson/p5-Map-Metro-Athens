@@ -38,15 +38,21 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-...
+As of 2015-01-02 it contains the three Metro lines and the two Proastiakos lines. See L<wikipedia|https://en.wikipedia.org/wiki/Athens_metro>.
+
+Notes:
+
+* Larissa Station (Athens Railway Station) is considered to be the same station on both M2 and P1.
+
+* The Irakleio station on P2 is called 'Irakleio P' to separate it from the Irakleio station on M1.
 
 =head1 AUTHOR
 
-...
+Erik Carlsson E<lt>info@code301.comE<gt>
 
 =head1 COPYRIGHT
 
-Copyright 2015 - ...
+Copyright 2015 - Erik Carlsson
 
 =head1 LICENSE
 

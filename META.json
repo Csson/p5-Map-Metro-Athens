@@ -43,6 +43,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Csson/p5-Map-Metro-Athens/issues"
+      },
+      "homepage" : "https://github.com/Csson/p5-Map-Metro-Athens",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Csson/p5-Map-Metro-Athens.git",
+         "web" : "https://github.com/Csson/p5-Map-Metro-Athens"
+      }
+   },
    "version" : "0.0001"
 }
 
