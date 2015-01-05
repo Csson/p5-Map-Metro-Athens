@@ -46,6 +46,14 @@ Notes:
 
 * The Irakleio station on P2 is called 'Irakleio P' to separate it from the Irakleio station on M1.
 
+See L<Map::Metro::Plugin::Map::Athens::Lines>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png" style="max-width: 600px" /></a></p>
+
+=end HTML
+
 =head1 AUTHOR
 
 Erik Carlsson E<lt>info@code301.comE<gt>
