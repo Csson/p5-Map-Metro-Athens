@@ -21,6 +21,8 @@ Notes:
 
 \* The Irakleio station on P2 is called 'Irakleio P' to separate it from the Irakleio station on M1.
 
+See [Map::Metro::Plugin::Map::Athens::Lines](https://metacpan.org/pod/Map::Metro::Plugin::Map::Athens::Lines).
+
 # AUTHOR
 
 Erik Carlsson <info@code301.com>
