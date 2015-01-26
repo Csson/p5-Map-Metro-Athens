@@ -4,7 +4,7 @@
       "Erik Carlsson <info@code301.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -42,18 +42,24 @@
          }
       }
    },
+   "provides" : {
+      "Map::Metro::Plugin::Map::Athens" : {
+         "file" : "lib/Map/Metro/Plugin/Map/Athens.pm",
+         "version" : "0.1101"
+      }
+   },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
          "web" : "https://github.com/Csson/p5-Map-Metro-Athens/issues"
       },
-      "homepage" : "https://github.com/Csson/p5-Map-Metro-Athens",
+      "homepage" : "https://metacpan.org/release/Map-Metro-Plugin-Map-Athens",
       "repository" : {
          "type" : "git",
          "url" : "https://github.com/Csson/p5-Map-Metro-Athens.git",
          "web" : "https://github.com/Csson/p5-Map-Metro-Athens"
       }
    },
-   "version" : "0.1000"
+   "version" : "0.1101"
 }
 
