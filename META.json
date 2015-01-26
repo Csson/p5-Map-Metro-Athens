@@ -36,7 +36,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Map::Metro" : "0.1900",
+            "Map::Metro" : "0.2206",
             "Moose::Role" : "2.0000",
             "perl" : "5.014000"
          }
