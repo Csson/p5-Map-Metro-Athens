@@ -3,6 +3,7 @@ use 5.14.0;
 package Map::Metro::Plugin::Map::Athens;
 
 # VERSION
+# ABSTRACT: Map::Metro map for Athens
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -23,14 +24,14 @@ __END__
 
 =encoding utf-8
 
-=head1 NAME
-
-Map::Metro::Plugin::Map::Athens - Map::Metro map for Athens
-
 =head1 SYNOPSIS
 
     use Map::Metro;
     my $graph = Map::Metro->new('Athens')->parse;
+
+Or:
+
+    $ map-metro.pl route Athens Marousi Panormou
 
 =head1 DESCRIPTION
 
@@ -48,23 +49,6 @@ Notes:
 
 See L<Map::Metro::Plugin::Map::Athens::Lines>.
 
-=begin HTML
-
-<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png" style="max-width: 600px" /></a></p>
-
-=end HTML
-
-=head1 AUTHOR
-
-Erik Carlsson E<lt>info@code301.comE<gt>
-
-=head1 COPYRIGHT
-
-Copyright 2015 - Erik Carlsson
-
-=head1 LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+=for HTML <p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png" style="max-width: 600px" /></a></p>
 
 =cut
